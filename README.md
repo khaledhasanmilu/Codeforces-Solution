@@ -1,77 +1,76 @@
-# 🚀 Codeforces Problem Solving Repository
+<!-- Project Title -->
+<h1 align="center">🚀 Codeforces Problem Solving Repository</h1>
 
-Welcome to the **Ultimate Codeforces Problem Solving** repository! This repository is a comprehensive collection of my solutions to Codeforces problems, aimed at helping you enhance your competitive programming skills.
+<!-- Project Description -->
+<p align="center">Welcome to the Ultimate Codeforces Problem Solving repository! This collection houses my solutions to Codeforces problems, crafted to elevate your competitive programming skills.</p>
 
-![Codeforces](https://codeforces.org/s/69018/images/codeforces-logo-with-telegram.png)
+<!-- Badges -->
+<p align="center">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/yourusername/Codeforces-Problem-Solving?style=flat-square">
+  <img alt="GitHub" src="https://img.shields.io/github/license/yourusername/Codeforces-Problem-Solving?style=flat-square">
+</p>
 
-## 🎯 Introduction
+<!-- Table of Contents -->
+<h2 align="center">Table of Contents</h2>
 
-Codeforces is one of the most popular platforms for competitive programming, offering a plethora of challenges that test your algorithmic skills and problem-solving abilities. This repository serves as a resource for anyone looking to:
+- [🎯 Introduction](#introduction)
+- [🗂️ Folder Structure](#folder-structure)
+- [🔍 How to Navigate](#how-to-navigate)
+- [📚 Problem Index](#problem-index)
+- [🛠️ How to Use](#how-to-use)
+- [🌟 Contributing](#contributing)
+- [📜 License](#license)
+- [🤝 Connect](#connect)
 
-- Prepare for upcoming Codeforces contests.
-- Practice and improve problem-solving skills.
-- Learn new algorithms and data structures.
+<!-- Introduction -->
+<h2 align="center">🎯 Introduction</h2>
 
-Each solution is crafted with care, providing clear and concise code along with explanations where necessary. Dive in to explore, learn, and become a better competitive programmer!
+<p align="center">Codeforces is renowned for its challenging problems that sharpen algorithmic thinking and coding skills. This repository is your gateway to mastering these challenges, with meticulously crafted solutions and detailed explanations.</p>
 
-## 🗂️ Folder Structure
+<!-- Folder Structure -->
+<h2 align="center">🗂️ Folder Structure</h2>
 
-The repository is meticulously organized into folders, each representing a specific contest or problem set:
+<p align="center">Explore organized folders containing solutions categorized by contest and difficulty, ensuring easy navigation and focused learning.</p>
 
-- **Contests**
-  - **ContestName_ContestID**: Solutions to problems from specific Codeforces contests.
-- **Problems by Difficulty**
-  - **Div2_A**: Solutions to Div2 A problems.
-  - **Div2_B**: Solutions to Div2 B problems.
-  - **Div2_C**: Solutions to Div2 C problems.
-  - **Div2_D**: Solutions to Div2 D problems.
-  - **Div1**: Solutions to Div1 problems.
+<!-- How to Navigate -->
+<h2 align="center">🔍 How to Navigate</h2>
 
-## 🔍 How to Navigate
+<p align="center">Easily locate solutions by contest or difficulty level. Each problem solution includes comprehensive explanations and links to original problem statements.</p>
 
-### By Contest
-Each contest folder contains problems solved in that particular contest, with filenames indicating the problem letter (e.g., `A.cpp`, `B.cpp`).
+<!-- Problem Index -->
+<h2 align="center">📚 Problem Index</h2>
 
-### By Difficulty
-Problems are also categorized by their difficulty levels, helping you focus on specific types of challenges to master.
+<p align="center">Refer to the detailed <a href="Problem_Index.md">Problem Index</a> for an extensive list of solved problems, complete with links to problem statements and solutions.</p>
 
-## 📚 Problem Index
+<!-- How to Use -->
+<h2 align="center">🛠️ How to Use</h2>
 
-Check out the **[Problem Index](Problem_Index.md)** for a comprehensive list of all problems solved, along with links to the original problem statements and solutions.
+<p align="center">Clone the repository, navigate to the desired problem set, compile, and run the solutions using clear instructions provided in each folder.</p>
 
-## 🛠️ How to Use
+<!-- Contributing -->
+<h2 align="center">🌟 Contributing</h2>
 
-1. **Clone the repository**: `git clone https://github.com/yourusername/Codeforces-Problem-Solving.git`
-2. **Navigate to a problem**: `cd Contests/ContestName_ContestID`
-3. **Compile and run**: 
-    ```sh
-    g++ A.cpp -o A
-    ./A < input.txt
-    ```
+<p align="center">Contributions are encouraged! Join in to enhance this repository with your solutions, improvements, or problem-solving insights. Follow the contribution guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).</p>
 
-## 🌟 Contributing
+<!-- License -->
+<h2 align="center">📜 License</h2>
 
-Contributions are more than welcome! Here's how you can help:
+<p align="center">This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.</p>
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
+<!-- Connect -->
+<h2 align="center">🤝 Connect</h2>
 
-Ensure your code is well-documented and follows the repository's coding standards. Let's make this repository a go-to resource for Codeforces problem solvers!
+<p align="center">Connect with me for any questions, collaborations, or feedback:</p>
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Connect
-
-Feel free to reach out with any questions or suggestions:
-
-- **Email**: kh.milu338@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/khaled-hasan-milu/
+<p align="center">
+  <a href="kh.milu338@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/khaled-hasan-milu/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 ---
 
-Happy coding! May your algorithms always run in `O(1)`! 🚀
+<p align="center">Explore, learn, and conquer the world of competitive programming with Codeforces! Happy coding! 🌟</p>
