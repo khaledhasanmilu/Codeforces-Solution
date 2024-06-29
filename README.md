@@ -69,8 +69,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to reach out with any questions or suggestions:
 
-- **Email**: [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)]kh.milu338@gmail.com
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/khaled-hasan-milu/
+- **Email**: kh.milu338@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/khaled-hasan-milu/
 
 ---
 
