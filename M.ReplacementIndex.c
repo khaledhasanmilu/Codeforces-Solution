@@ -8,9 +8,9 @@ int main() {
     }
 
     int min = arr[0], max = arr[0];
-    int min_indx = 0, max_indx = 0;  // Initialize indices to 0
+    int min_indx = 0, max_indx = 0;  
 
-    for (int i = 1; i < n; i++) { // Start from 1 since we initialized with arr[0]
+    for (int i = 1; i < n; i++) { 
         if (arr[i] < min) {
             min = arr[i];
             min_indx = i;
